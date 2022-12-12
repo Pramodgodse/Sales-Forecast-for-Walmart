@@ -67,7 +67,7 @@ regression.
 ![Picture5](https://user-images.githubusercontent.com/110618663/207133965-aa56ea60-3fc8-489d-8d46-2156cbb0a350.png)
 ![Picture6](https://user-images.githubusercontent.com/110618663/207134043-7f08d3f9-d037-4f16-ba7b-050d0e852c3d.png)
 
-##RESULTS
+## RESULTS
 We found the regression equation when we don’t use promotional markdown variables as:
 𝑊𝑒𝑒𝑘𝑙𝑦 𝑠𝑎𝑙𝑒𝑠 = 247.396 – (845.53 * ℎ𝑜𝑙𝑖𝑑𝑎𝑦) + 9.979 * 𝑇𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒
 + 0.9067 * 𝑊𝑒𝑒𝑘𝑙𝑦 𝑆𝑎𝑙𝑒𝑠 𝑙𝑎𝑔 + 698.93 * 𝑇𝑦𝑝𝑒_𝐴 + 5.613 * 𝑇𝑦𝑝𝑒_𝐵
@@ -119,7 +119,7 @@ are the two main time-consuming factors. As both of these are internal commands,
 that the code is indeed currently optimal. We also tried minimal use of loops in our code and
 tried to find more efficient alternatives such as shift and map.
 
-##CONCLUSION
+## CONCLUSION
 In conclusion, we find that our regression equation is quite accurate (84.5% accuracy) in
 predicting the weekly sales. Walmart can use it to forecast the sales better. They need to focus
 on the inventory planning of key departments like 38,92 and 95. They need to overhaul the
